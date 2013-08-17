@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require "servethis2"
+Servethis2::CLI.run
